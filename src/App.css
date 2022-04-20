@@ -1,0 +1,26 @@
+.App {
+  font-family: var(--font-primary);
+}
+
+.color-crimson {
+  background: crimson;
+}
+
+.bg-zomato {
+  background: #e23744;
+}
+
+.bg-linkedin {
+  background: #0072b1;
+}
+.text-linkedin {
+  color: #0072b1;
+}
+
+.bg-netflix {
+  background: #e50914;
+}
+
+.bg-amazon {
+  background: #ff9900;
+}
